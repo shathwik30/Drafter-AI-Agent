@@ -21,7 +21,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dshathwikr/drafter-ai-agent.git
+   git clone https://github.com/shathwik30/Drafter-AI-Agent.git
    cd drafter-ai-agent
    ```
 
